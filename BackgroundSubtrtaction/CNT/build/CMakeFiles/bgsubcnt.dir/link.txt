@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbgsubcnt.a  CMakeFiles/bgsubcnt.dir/bgsubcnt.cpp.o
+/usr/bin/ranlib libbgsubcnt.a

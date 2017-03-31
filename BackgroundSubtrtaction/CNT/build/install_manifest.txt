@@ -1,0 +1,2 @@
+/usr/local/lib/libbgsubcnt.a
+/usr/local/include/bgsubcnt.h
