@@ -1,0 +1,3 @@
+/home/ruwiniopatha/Desktop/Milestone4/CVBD/SURF/build/CMakeFiles/edit_cache.dir
+/home/ruwiniopatha/Desktop/Milestone4/CVBD/SURF/build/CMakeFiles/rebuild_cache.dir
+/home/ruwiniopatha/Desktop/Milestone4/CVBD/SURF/build/CMakeFiles/SURF.dir
