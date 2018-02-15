@@ -1,2 +1,2 @@
 First include your video clip (.mp4)
-Then run the code as ./vid.sh <video_File_name>.mp4
+Then run the code as ./vid.sh <video_File_name_with_type>
